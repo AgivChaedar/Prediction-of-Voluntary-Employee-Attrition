@@ -27,10 +27,9 @@ Visualize key trends using plots and charts.
 
 ### Feature Selection:
 Selection of relevant features using Pearson correlation and Chi-square tests.
-Data Preprocessing:
 
-### Handling missing values.
-Feature scaling and encoding categorical variables.
+### Data Preprocessing:
+Handling missing values, Feature scaling and encoding categorical variables.
 
 ### Modeling:
 Train and compare models such as Support Vector Machine (SVM), Decision Tree, and Logistic Regression.
