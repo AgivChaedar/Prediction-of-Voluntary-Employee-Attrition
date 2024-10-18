@@ -39,12 +39,3 @@ Model Evaluation:
 
 ### Evaluate model accuracy, precision, recall, and F1-score.
 Cross-validation to ensure model robustness.
-Dependencies
-The following libraries are required to run this project:
-
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-jupyter
